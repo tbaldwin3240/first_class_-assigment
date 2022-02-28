@@ -20,6 +20,8 @@ Use .gitignore and place the directory that you dont’ want tracked in that fil
 and place files that you don’t want tracked in that file 
 
 7) What can be used in order to repeat some block of code? Provide 2 examples.
+A function, dict() and format() are python functions 
+
 8) When saving a value for later use what type of operator do we use?
 9) What's the key difference between git revert and git reset?
 10) What's the key difference between Python lists and tuples?
