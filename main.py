@@ -1,6 +1,8 @@
 #Question need to be answered
 
 """1) What are comments?
+Comments are pieces of information put in the code that is not code but exists f or the programmer to know what the code is and does
+
 2) Demonstrate at least 2 ways to create a comment. One should be for multiple lines.
 3) If the name of a file is app.py what do we type in the command line to tell our computer to run it?
 4) Demonstrate how I can tell a Python program to display something in the command line.
