@@ -33,7 +33,7 @@
 # print(emp_1.email)
 # print(emp_2.email)
 
-from curses import ACS_GEQUAL
+# from curses import ACS_GEQUAL
 
 
 class puppys:
@@ -48,6 +48,8 @@ class puppys:
 puppys_1 = puppys('Bella','female', 7)
 puppys_2 = puppys('Max', 'male', 3)
 
-print(puppys_1.name, puppys_1.age)
-print(puppys_2.age)
+print(puppys_1.name, puppys_1.sex, puppys_1.age)
+print(puppys_2.name, puppys_2.sex, puppys_2.age)
+
+
 
