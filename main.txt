@@ -25,16 +25,29 @@ sA function, dict() and format() are python functions
 8) When saving a value for later use what type of operator do we use?
  We use the equal operator 
 9) What's the key difference between git revert and git reset?
+The git revert keeps the history of the changes you made and git reset resets the head before you made changes.
+
 10) What's the key difference between Python lists and tuples?
+
 11) What can I do to know where I am within my file system?
+
 12) Describe the anatomy of a Python dictionary and create one below.
+
 13) What type of values can be in a Python dictionary?
+
+
 14) What type of values can be in a Python list?
+
 15) What data type are True and False?
+
 16) What language does your computer understand?
+
 17) What do we need in order for your computer to make use of programming languages?
+
 18) At what index is your instructor's name located in this list? ["Ron", "Troy", "Martha"]
+
 19) What does frontend / client side mean?
+
 20) What does backend / server side mean?
 21) What are 3 way to create a Python string?
 22) What are 2 types of number data types in Python? Provide an example.
