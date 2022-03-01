@@ -65,6 +65,8 @@ The front end includes Java script,CSS,HTML, and is code that relates to styling
 It include code in python, translator, and machine code.
 
 21) What are 3 way to create a Python string?
+Single quotes, double quotes, and triple quotes
+
 22) What are 2 types of number data types in Python? Provide an example.
 23) Are we able to add two strings together? How?
 24) What commands would you use to create the following file structure? (write every command line by line):
