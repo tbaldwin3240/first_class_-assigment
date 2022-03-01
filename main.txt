@@ -68,7 +68,10 @@ It include code in python, translator, and machine code.
 Single quotes, double quotes, and triple quotes
 
 22) What are 2 types of number data types in Python? Provide an example.
+Integers 2  and floats 2.6
+
 23) Are we able to add two strings together? How?
+
 24) What commands would you use to create the following file structure? (write every command line by line):
     
     Desktop
