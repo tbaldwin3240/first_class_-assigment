@@ -116,6 +116,8 @@ a = "troy"
 print(a.upper())
 
 28) What method can I use to change this string from "TROY" to "troy"?
+a = "TROY"
+print(a.lower()
 
 29) How can I check to see if all of the characters in a string are numbers/digits?
 30) How can I split a string into a list with each value in the list being a line of the string?
