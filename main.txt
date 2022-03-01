@@ -160,6 +160,8 @@ Set a variable to the input method Username = input(“”)
 Git log - - oneline or git log 
 
 38) How can I add a value to a Python list?
+append() method is used
+
 39) How can I remove a value from a Python list?
 40) How can I access a value in a Python dictionary?
 41) How can I remove a value from a Python dictionary?
