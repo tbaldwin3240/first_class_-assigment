@@ -47,6 +47,7 @@ key value pairs
 Allows list that are made of variables, they are changeable, ordered and, allow duplicates. 
 
 15) What data type are True and False?
+Boolean 
 
 16) What language does your computer understand?
 
