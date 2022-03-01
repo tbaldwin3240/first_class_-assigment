@@ -59,6 +59,7 @@ What do we need in order for your computer to make use of programming languages?
 Troy is at index 1
 
 19) What does frontend / client side mean?
+The front end includes Java script,CSS,HTML, and is code that relates to styling and structure of frameworks.
 
 20) What does backend / server side mean?
 21) What are 3 way to create a Python string?
