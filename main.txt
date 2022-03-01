@@ -56,6 +56,7 @@ Machine language made of 0s and 1s
 What do we need in order for your computer to make use of programming languages?
 
 18) At what index is your instructor's name located in this list? ["Ron", "Troy", "Martha"]
+Troy is at index 1
 
 19) What does frontend / client side mean?
 
