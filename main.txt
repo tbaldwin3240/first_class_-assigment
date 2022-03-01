@@ -151,6 +151,8 @@ if b > a:
 Create a branch and make your changes on that branch, then have a pull request and peer review before pushing it back up
 
 35) What do I do in order to make sure I have the latest code on my machine?
+Python -V 
+
 36) How can I accept user input into my Python code?
 37) How can I see all of my git commits?
 38) How can I add a value to a Python list?
