@@ -123,6 +123,12 @@ print(a.lower()
 isdigit() to check if the characters are digits
 
 30) How can I split a string into a list with each value in the list being a line of the string?
+txt = "hello/n my name is Peter/n I am 26 years old"
+
+x = txt.split("/n ")
+
+print(x)
+
 31) What are the Python comparison operators? List each and describe.
 32) What are the Python logical operators? List each and describe.
 33) How can we decide to run one piece of code versus another? Provide an example.
