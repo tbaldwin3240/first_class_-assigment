@@ -130,6 +130,11 @@ x = txt.split("/n ")
 print(x)
 
 31) What are the Python comparison operators? List each and describe.
+== equal
+!= not equal
+> greater than
+< less than
+
 32) What are the Python logical operators? List each and describe.
 33) How can we decide to run one piece of code versus another? Provide an example.
 34) What can I do to work on my primary code, but not mess it up? Provide an example.
