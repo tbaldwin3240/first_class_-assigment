@@ -136,15 +136,20 @@ print(x)
 < less than
 
 32) What are the Python logical operators? List each and describe.
-Do a if else statement : 
 
+And: returns True it both statements are true
+Or: returns True if one of the statement is true
+Not : reverse the result, returns False if the result is true.
+
+33) How can we decide to run one piece of code versus another? Provide an example.
 a = 33
 b = 200
 if b > a:
   print("b is greater than a")
 
-33) How can we decide to run one piece of code versus another? Provide an example.
 34) What can I do to work on my primary code, but not mess it up? Provide an example.
+Create a branch and make your changes on that branch, then have a pull request and peer review before pushing it back up
+
 35) What do I do in order to make sure I have the latest code on my machine?
 36) How can I accept user input into my Python code?
 37) How can I see all of my git commits?
