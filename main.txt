@@ -157,6 +157,8 @@ Python -V
 Set a variable to the input method Username = input(“”)
 
 37) How can I see all of my git commits?
+Git log - - oneline or git log 
+
 38) How can I add a value to a Python list?
 39) How can I remove a value from a Python list?
 40) How can I access a value in a Python dictionary?
