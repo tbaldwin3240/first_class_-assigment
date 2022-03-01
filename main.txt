@@ -50,6 +50,7 @@ Allows list that are made of variables, they are changeable, ordered and, allow 
 Boolean 
 
 16) What language does your computer understand?
+Machine language made of 0s and 1s
 
 17) What do we need in order for your computer to make use of programming languages?
 
