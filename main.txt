@@ -181,8 +181,9 @@ A pull request is a request to pull changes of code from our local into the main
 44) Why do we use services like Github?
 They have remote servers that can store larger amounts of code than the ram on our local computers. 
 
-
 45) How can I create a git branch?
+Git branch (branch name
+
 46) How can I switch to another branch?
 47) What happens if multiple engineers try to change the same area of a codebase from different points in time?
 48) What are the 3 stages of of tracking our work with git?
