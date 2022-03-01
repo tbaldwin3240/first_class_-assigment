@@ -136,12 +136,10 @@ print(x)
 < less than
 
 32) What are the Python logical operators? List each and describe.
-Do a if else statement : 
 
-a = 33
-b = 200
-if b > a:
-  print("b is greater than a")
+And: returns True it both statements are true
+Or: returns True if one of the statement is true
+Not : reverse the result, returns False if the result is true.
 
 33) How can we decide to run one piece of code versus another? Provide an example.
 34) What can I do to work on my primary code, but not mess it up? Provide an example.
