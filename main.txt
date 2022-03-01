@@ -112,6 +112,8 @@ cd ..
 cd Instagram/images/
 
 27) What method can I use to change this string from "troy" to "Troy"? 
+a = "troy"
+print(a.upper())
 
 28) What method can I use to change this string from "TROY" to "troy"?
 
