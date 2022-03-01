@@ -154,6 +154,8 @@ Create a branch and make your changes on that branch, then have a pull request a
 Python -V 
 
 36) How can I accept user input into my Python code?
+Set a variable to the input method Username = input(“”)
+
 37) How can I see all of my git commits?
 38) How can I add a value to a Python list?
 39) How can I remove a value from a Python list?
