@@ -166,6 +166,8 @@ append() method is used
 pop() method removes a value
 
 40) How can I access a value in a Python dictionary?
+Use the get() method
+
 41) How can I remove a value from a Python dictionary?
 42) How can I change a value in a Python dictionary?
 43) What is a pull request? Describe it in detail.
