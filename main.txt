@@ -175,6 +175,9 @@ Using the del or the popitem()
 thisdict["year"] = 2018 
 
 43) What is a pull request? Describe it in detail.
+A pull request is a request to pull changes of code from our local into the main server and merges the code into the remote code. This work has to be reviewed often before merging and explains what changes you have made in your code. 
+
+
 44) Why do we use services like Github?
 45) How can I create a git branch?
 46) How can I switch to another branch?
