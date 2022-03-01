@@ -23,6 +23,7 @@ and place files that you don’t want tracked in that file
 A function, dict() and format() are python functions 
 
 8) When saving a value for later use what type of operator do we use?
+ We use the equal operator 
 9) What's the key difference between git revert and git reset?
 10) What's the key difference between Python lists and tuples?
 11) What can I do to know where I am within my file system?
