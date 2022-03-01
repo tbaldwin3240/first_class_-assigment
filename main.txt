@@ -28,6 +28,7 @@ A function, dict() and format() are python functions
 The git revert keeps the history of the changes you made and git reset resets the head before you made changes.
 
 10) What's the key difference between Python lists and tuples?
+Python lists variables can change while in tuples they cannot
 
 11) What can I do to know where I am within my file system?
 
