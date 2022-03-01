@@ -53,6 +53,7 @@ Boolean
 Machine language made of 0s and 1s
 
 17) What do we need in order for your computer to make use of programming languages?
+What do we need in order for your computer to make use of programming languages?
 
 18) At what index is your instructor's name located in this list? ["Ron", "Troy", "Martha"]
 
