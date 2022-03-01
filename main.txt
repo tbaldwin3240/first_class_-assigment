@@ -31,7 +31,7 @@ The git revert keeps the history of the changes you made and git reset resets th
 Python lists variables can change while in tuples they cannot
 
 11) What can I do to know where I am within my file system?
-
+Type pwd
 12) Describe the anatomy of a Python dictionary and create one below.
 
 13) What type of values can be in a Python dictionary?
