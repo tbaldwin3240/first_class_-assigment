@@ -199,6 +199,7 @@ Pwd
 Ls
 Cd
 50) Is spacing in my Python code important? Why?
+Python is famous among programming languages for its fairly unique syntax: rather than being delimited by curly braces or “begin/end” keywords, blocks are delimited by indentation (or whitespace). ... Everywhere else, whitespace is not significant and can be used as you like, just like in any other language.Yes ,because the indentation in python represents a block of code, it’s not only for readability. 
 
 
 """
