@@ -195,6 +195,9 @@ Git commit -m “”
 Git push
 
 49) What are the commands we'd use, in order, to move our changes through these stages?
+Pwd
+Ls
+Cd
 50) Is spacing in my Python code important? Why?
 
 
